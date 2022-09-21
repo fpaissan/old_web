@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Research Intern @ MILA | Researcher Fellow @ FBK | Scientific Collaborator @ INFN | BSc Student - Physics @ UniTN</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there, my name is Francesco Paissan, and I am 21 years old.
+I am fascinated by the opportunity to model phenomena and broaden my understanding of various problems from different disciplines using different frameworks, from physics to deep learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I started with [robotics](http://archeorov.witlab.io), intending to make accessible to a broad audience something otherwise tricky to explore, namely underwater environments. During the development of the prototype of the underwater drone, I fell in love with physics and the idea of modelling the world using mathematics. Thus, I decided to pursue a bachelor degree in Physics at the University of Trento. At the same time, I had the opportunity to work in Fondazione Bruno Kessler (FBK), where I started my journey as a research fellow under the supervision of [Dr. Elisabetta Farella](https://scholar.google.it/citations?user=NOjpApQAAAAJ&hl=en). There, I am focusing on the development of efficient deep learning techniques for a variety of tasks. My primary interest is in multimedia analytics at the edge (e.g. audio-visual processing on microcontroller units).
+Moreover, I am also developing new methodologies for electroencephalogram (EEG) decoding and processing mainly based on neural nets. My involvement in this domain led me to collaborate on the [speechbrain toolkit](https://speechbrain.github.io) under the supervision of [Dr. Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/). The goal of this collaboration is to add EEG processing pipelines to the speechbrain toolkit.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Despite working on various exciting problems in FBK and with speechbrain, I also wanted to develop a deeper understanding of physics and its research ecosystem. For this reason, I joined the [LEGEND200](https://legend-exp.org) collaboration under the supervision of [Prof. Giuseppe Salamanna](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiFt6ylw9HzAhWusaQKHVSCDWIQFnoECAsQAQ&url=https%3A%2F%2Fsalaman.web.cern.ch%2F&usg=AOvVaw2PpWQukNKZC8ajwaake6vD) to develop and deploy novel solutions for machine learning applied to neutrino physics.
+
+Please feel free to connect with me via Twitter! 
