@@ -1,0 +1,502 @@
+<!-- 
+  //////////////////////////////////////////////////////
+
+  FREE HTML5 TEMPLATE 
+  DESIGNED & DEVELOPED by FREEHTML5.CO
+
+  //////////////////////////////////////////////////////
+-->
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Francesco Paissan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+  <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+  <meta name="author" content="FREEHTML5.CO" />
+
+  <!-- Facebook and Twitter integration -->
+  <meta property="og:title" content=""/>
+  <meta property="og:image" content=""/>
+  <meta property="og:url" content=""/>
+  <meta property="og:site_name" content=""/>
+  <meta property="og:description" content=""/>
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="twitter:url" content="" />
+  <meta name="twitter:card" content="" />
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  <link rel="shortcut icon" href="">
+
+  <!-- Google Webfont -->
+  <link href='https://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+  <!-- Themify Icons -->
+  <link rel="stylesheet" href="css/themify-icons.css">
+  <!-- Icomoon Icons -->
+  <link rel="stylesheet" href="css/icomoon-icons.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <!-- Owl Carousel -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" href="css/magnific-popup.css">
+  <!-- Easy Responsive Tabs -->
+  <link rel="stylesheet" href="css/easy-responsive-tabs.css">
+  <!-- Theme Style -->
+  <link rel="stylesheet" href="css/style.css">
+
+
+  <!-- FOR IE9 below -->
+  <!--[if lte IE 9]>
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="js/respond.min.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="fh5co-header" role="banner">
+    <div class="container">
+      <!-- Logo -->
+      <div id="fh5co-logo">
+        <!--    <img width="100" src="images/logo.png" alt="Work Logo" href="index.html">-->
+
+      </div>
+      <!-- Logo -->
+
+      <!-- Mobile Toggle Menu Button -->
+      <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
+
+      <!-- Main Nav -->
+      <div id="fh5co-main-nav">
+        <nav id="fh5co-nav" role="navigation">
+          <ul>
+            <li class="fh5co-active">
+              <a href="index.html">About</a>
+            </li>
+            <li>
+              <a href="#Pubs">Publications</a>
+            </li>
+              <a href="#Talks">Talks</a>
+            </li>
+            <li>
+              <a href="#Media">Media</a>
+            </li>
+          </ul>
+          </a>
+          <div class="fh5co-nav-call-to-action js-fh5co-nav-call-to-action">
+            <a href="https://twitter.com/fpaissan_" > <img width="30" src="images/twitter.png" align:right; > </a>
+            <a href="https://scholar.google.com/citations?user=QJtF3yQAAAAJ&hl=en&oi=ao" ><img width="30" src="images/gsch.png" > </a>
+          </div>
+            </a>
+        </nav>
+      </div>
+      <!-- Main Nav -->
+    </div>
+  </header>
+  <!-- Header -->
+
+  <main role="main">
+    <!-- Start Intro -->
+    <div id="fh5co-intro">
+      <div class="container">
+        <img width="300" src="images/profpic.png" align="left" style="padding-right: 10px;">
+        <div class="row" style="padding-top: 20px;">
+            <p>student of science, University of Trento and FBK</p>
+            francescopaissan at gmail dot com
+        </div>
+        <!--<p style="font-size:13px">-->
+        <div class='p12'>
+		I am interested in signal processing, machine learning, and neural network interpretability. In FBK I work under the supervision of Dr. Elisabetta Farella on designing efficient neural network and training paradigms. Under the supervision of Prof. Mirco Ravanelli and Prof. Cem Subakan, I work on interpretability approaches for neural networks.
+          <br/>
+          <br/>
+          <br/>
+	  <!--
+          Tutorials on interpretability:
+          <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning Summer School MLSS 2021 (<a href="https://docs.google.com/presentation/d/e/2PACX-1vT9niyHbIv29umb-p3jNHNvs0wpXwwnXvUdubiunV3J0N8O2E7cTrax4giBfPs-xDVnEdaHdN2Ui9Bd/embed?start=false&loop=false&delayms=60000">slides</a>, <a href="https://www.youtube.com/watch?v=18cuUmdtLjo">video</a>)
+          <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Learning Summer school at University of Toronto, Vector institute in 2018 (<a href="slides/DLSS2018Vector_Been.pdf">slides</a>, <a href="https://vectorinstitute.ai/faq-items/2018-deep-learning-summer-school">video</a>)
+          <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVPR 2018 (<a href="https://interpretablevision.github.io/index_cvpr2018.html">slides and videos</a>)
+          <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://2017.icml.cc/Conferences/2017/Tutorials">Tutorial on Interpretable machine learning at ICML 2017</a> (<a href="papers/BeenK_FinaleDV_ICML2017_tutorial.pdf">slides</a>,  <a href="https://icml.cc/Conferences/2017/Schedule?showEvent=900" >video</a>).
+          <br/>
+          <br/>
+	  -->
+          <!--
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9niyHbIv29umb-p3jNHNvs0wpXwwnXvUdubiunV3J0N8O2E7cTrax4giBfPs-xDVnEdaHdN2Ui9Bd/embed?start=false&loop=false&delayms=60000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+          -->
+          <br/>
+          <br/>
+        </div>
+      </div>
+    </div>
+    <!-- End Intro -->
+    <!-- Start Pub-->
+    <div id="fh5co-work">
+      <div class="container">
+        <a NAME="Pubs"><h4>Publications</h4></a>
+        <div class="p13"> Show me in  <a  href="https://scholar.google.com/citations?user=QJtF3yQAAAAJ&hl=en&oi=ao" >Google Scholar</a></div>
+        <div class="row">
+
+<!-- Start One paper-->
+          <div class="fh5co-spacer fh5co-spacer-xs"></div>
+          <img src="images/phinet.png" alt="Images" class="fh5co-align-left img-responsive">
+          <div class='paper-title'>
+            PhiNets: a scalable backbone for low-power AI at the edge
+          </div>
+          <div class='tldr'>
+            TL;DR: We present an efficient convolutional backbone for audio-visual processing. This network can adapt to multiple microcontrollers and embedded devices in one-shot via Hardware Aware Scaling (HAS), which is the process of changing the network using computational resources as constraints. We conduct the experimental results on object detection and compare our backbone to MobileNets and EfficientNets.
+          </div>
+          <div class='paper-contents'>
+            Francesco Paissan*, Alberto Ancilotto*, Elisabetta Farella
+            <br />
+    [<a href="https://arxiv.org/pdf/2110.00337.pdf">arxiv</a>]
+          </div>
+<!-- End One paper-->
+          <!-- Start One paper-->
+          <div class="fh5co-spacer fh5co-spacer-xs"></div>
+          <img src="images/iwasi.png" alt="Images" class="fh5co-align-left img-responsive">
+          <div class='paper-title'>
+            People/car classification using an ultra-low-power smart vision sensor
+          </div>
+          <div class='tldr'>
+            TL;DR: We explore how simple ML techniques can be coupled with smart vision sensors to extract information useful for smart cities applications.
+          </div>
+          <div class='paper-contents'>
+            Francesco Paissan, Gianmarco Cerutti, Massimo Gottardi, Elisabetta Farella 
+            <br /> [<a href="https://ieeexplore.ieee.org/abstract/document/8791337/">link</a>]
+          </div>
+          <!-- End One paper-->
+ 
+          <div class="center">
+            <button id="thebutton" onclick="toggle()">+ Show more...</button>
+          </div>
+
+    <div id="toggle-div">
+          <!-- Start One paper-->
+          <div class="fh5co-spacer fh5co-spacer-xs"></div>
+          <div class='paper-title'>
+            Enabling energy efficient machine learning on a Ultra-Low-Power vision sensor for IoT
+          </div>
+          <div class='tldr'>
+            TL;DR: An extension of "People/car classification using an ultra-low-power smart vision sensor", IWASI 2019
+          </div>
+          <div class='paper-contents'>
+            Francesco Paissan, Massimo Gottardi, Elisabetta Farella <br /> [<a href="https://cris.fbk.eu/handle/11582/319866">pdf</a>]
+          </div>
+          <!-- End One paper-->
+ 
+          <div class="center">
+            <button id="thebutton" onclick="toggle()">+ Show more...</button>
+          </div>
+
+
+          <!-- Start One paper-->
+          <div class="fh5co-spacer fh5co-spacer-xs"></div>
+          <div class='paper-title'>
+            Exploiting general-purpose in-game behaviours to predict players churn in gameful systems
+          </div>
+          <div class='tldr'>
+            TL;DR: We explore the use of NNs from churn prediction based on in-game behaviours of players.
+          </div>
+          <div class='paper-contents'>
+            Enrica Loria, Francesco Paissan, Annapaola Marconi
+            <br />
+            [<a href="https://cris.fbk.eu/handle/11582/319866">pdf</a>]
+          </div>
+          <!-- End One paper-->
+    </div> <!-- End of toggle -->
+
+
+        </div>
+      </div>
+      <!-- End Pub-->
+
+      <!-- Start Talks-->
+      <div id="fh5co-work">
+        <div class="container">
+          <a NAME="Talks"><h4>Talks</h4></a>
+
+          <div class="p13">
+          (not an exhuastive list and not in a completely chronological order...)
+            </br>
+            </br>
+Invited talk at <a href="https://nap.nationalacademies.org/author/CATS/division-on-engineering-and-physical-sciences/committee-on-applied-and-theoretical-statistics">  Applied and Theoretical Statistics (CATS) from the National Academies of Sciences, Engineering, and Medicine </a>
+            </br>
+Invited talk at <a href="https://sites.google.com/corp/view/repl4nlp2022/invited-speakers"> ACL 2022 Repl4NLP workshop </a>
+            </br>
+Invited talk at <a href="https://xai4cv.github.io/workshop"> CVPR 2022 workshop XAI4CV</a>
+            </br>
+Invited <span style="color:#F87431">keynote</span> at <a href="https://www.mlforhc.org/2022-agenda"> Machine Learning for Health Care 2022</a>
+            </br>
+Inited talk at ICML 2022 <a href="https://sites.google.com/view/imlh2022/speakers?authuser=0"> Interpretable Machine Learning in Healthcare </a> workshop
+            </br>
+Invited <span style="color:#F87431">keynote</span> at <a href="https://www.youtube.com/watch?v=Ub45cGEcTB0&t=6s"> ICLR 2022 </a>
+            </br>
+Invited lecture at <a href="https://brown-deep-learning.github.io/dl-website-2022/"> Brown University Deep Learning course</a>
+            </br>
+Invited talk at <a href"https://www.youtube.com/watch?v=duhm5jfKBgg">KAIST International Symposium on AI and Future Society</a>
+            </br>
+Invited talk at <a href="https://research.samsung.com/saif">Samsung AI forum 2021</a>
+            </br>
+Invited session talk at <a href="http://meetings.informs.org/wordpress/anaheim2021/">Informs conference 2021</a>
+            </br>
+Invited talk at <a href="https://neural-architecture-ppf.github.io/"> ICCV 2021 workshop Neural Architectures: Past, Present and Future</a>
+            </br>
+Invited keynote at <a href="http://imimic-workshop.com/">MICCAI 2021 workshop on "Interpretability of Machine Intelligence in Medical Image Computing" </a>
+            </br>
+		Neurips 2021 workshop on <a href="https://www.afciworkshop.org/"> Algorithmic Fairness through the Lens of Causality and Robustness</a>
+            </br>
+            Invited tutorial at <a href="http://mlss.cc/">Annual Machine Learning Summer School 2021</a>
+            </br>
+            Invited talk at <a href="https://sites.google.com/view/recourse21/">ICML 2021 Workshop on Algorithmic Recourse</a>
+            </br>
+            Invited talk at <a href="https://sites.google.com/view/saiad2021">CVPR SAIAD 2021: Safe Artificial Intelligence for Automated Driving</a>
+            </br>
+            Invited at
+            <a href="http://xaip.mybluemix.net/#/program">ICAPS 2021 International Workshop of Explainable AI Planning (XAIP)</a>
+            </br>
+            Invited lecture at Machine Learning Summer School 2021 <a href="http://mlss.cc/">MLSS</a>
+            </br>
+            KAIST CS774 AI & Ethics Guest Lecture 
+            </br>
+            Invited talk at <a href="https://sites.google.com/corp/view/rai-workshop/home">ICLR-21 Workshop on Responsible AI </a>
+            </br>
+            Invited talk at <a href="https://www.cs.ox.ac.uk/seminars/distinguishedspeakers/previous.html">Distinguished Speakers: Oxford Women in Computer Science</a>
+            </br>
+            MIT career forum: Academia vs Industry? 2021
+            </br>
+            Invited talk <a href="http://www.cs.cmu.edu/~aiseminar/">CMU AI seminar</a>
+            </br>
+            Invited <span style="color:#F87431">keynote</span> <a href="https://web.cvent.com/event/c733574c-9f9f-4155-9316-56c57720cf4f/websitePage:81bf6fd7-e7fd-4670-b867-d4e0281cf3ba">
+              Federal Reserve AI Symposium 2021</a>
+            </br>
+            Invited panel <a href="https://sites.google.com/corp/view/xaiworkshop/program">AAAI 2021 Explainable Agency in Artificial Intelligence Workshop</a>
+            </br>
+            Invited talk <a href="https://www.cs.ox.ac.uk/seminars/distinguishedspeakers/previous.html">Distinguished Speakers: Oxford Women in Computer Science</a>
+            </br>
+            Invited talk <a href="https://www.turing.ac.uk/research/interest-groups/robust-machine-learning">Robust machine learning group at Oxford, 2021</a>
+            </br>
+            Guest lecture at <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+81SI%3A+AI+Interpretability+and+Fairness&collapse="> Stanford class CS81SI 2020</a>
+            </br>
+            Invited <span style="color:#F87431">keynote</span> at <a href="https://ecmlpkdd2020.net/programme/keynotes/">ECML 2020</a>
+            </br>
+            ...Maternity leave for a while in 2020!... 
+            </br>
+            Invited talk at <a href="https://www.facebook.com">Facebook</a>
+            </br>
+
+            Invited forum at <a href="">Humans of AI, Stanford 2020</a>
+            </br>
+
+            Invited talk at <a href="https://www.widsconference.org/"> Women in Data Science at Stanford 2020</a>
+            </br>
+            Invited talk at <a href="https://www.runtheworld.today/app/invitation/1374">IAS on New Directions in Optimization, Statistics and Machine Learning April 15-17, 2020</a>
+            </br>
+            Invited interview at <a href="https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/">Google's Techspert </a>
+            </br>
+
+            Invited <span style="color:#F87431">keynote</span> at <a href="https://www.humancomputation.com/2019/keynote.html#kim">HCOMP 2019 </a>
+            </br>
+            Invited <span style="color:#F87431">keynote</span> at <a href="http://www.visualdatascience.org/2019/program/">Visualization in Data Science (VDS) 2019</a>
+            </br>
+
+            Invited talk at <a href="https://nips.cc/Expo/Conferences/2019/Schedule_overview?presentation_type=Talks">Neurips Expo 19, Google speaker</a>
+            </br>
+            Invited talk at <a href="https://sites.google.com/corp/view/hcml-2019 ">Human centered ML (HCML) workshop at Neurips 19</a> 
+            </br>
+            Invited panel at <a href=" https://mindingthegap.github.io/">Minding the Gap workshop at Neurips 19</a>
+            </br>
+            Invited panel at <a href="https://sites.google.com/corp/view/sedl-neurips-2019/">Science meets Engineering of Deep Learning workshop Neurips 19</a>
+            </br>
+            Invited talk at <a href="https://icml2019workshop.github.io/"> Security and privacy in ML workshop ICML 19</a>
+            </br>
+            Invited talk at <a href="https://explainai.net/">Workshop on Explainable AI  CVPR 19</a>
+            </br>
+            Invited talk at <a href="https://sites.google.com/corp/view/saiad-wscvpr19/home">Safe Artificial Intelligence for Automated Driving CVPR 19</a>
+            </br>
+            Invited talk at <a href="https://xai.kdd2019.a.intuit.com/">KDD XAI workshop 2019</a>
+            </br>
+            Invited lecture at <a href="https://dawn.cs.stanford.edu//seminar/">Stanford Dawn seminar 2019</a>
+            </br>
+            Invited lecture at <a href="">UW CSE AI Seminar</a>
+            </br>
+            Invited lecture at <a href="https://berkeley-deep-learning.github.io/cs294-131-s19/">UC Berkeley for seminar course Special Topics in Deep Learning </a>
+            </br>
+            Invited tutorial at <a href="https://dl4sci-school.lbl.gov/home">Deep Learning for Science School at Lawrence Berkeley National Laboratory 2019</a>
+            </br>
+            Invited tutorial at <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19452"> Dagstuhl “Machine Learning Meets Visualization to Make Artificial Intelligence Interpretable” 2019</a>
+            </br>
+            Invited talk at <a href="https://simons.berkeley.edu/workshops/schedule/10629">Simon’s workshop on Foundations of Deep Learning at UC Berkeley: Emerging Challenges in Deep Learning</a>
+            </br>
+            Invited talk at <a href="https://simons.berkeley.edu/workshops/schedule/10627">Simon’s workshop on Foundations of Deep Learning at UC Berkeley: Frontiers of Deep Learning
+            </a>
+            </br>
+            Invited interview with <a href="https://www.parsingscience.org/2019/07/09/been-kim/">Parsing science podcast: designed to explain science for lay people.</a>
+            </br>
+            <a href="https://en.wikipedia.org/wiki/G20">G20 meeting</a> in Argentina in 2019
+            </br>
+            Invited talk at <a href="https://secml2018.github.io/">NIPS 2018 workshop on Security in Machine Learning 2018 </a>
+            </br>
+            Invited talk at <a href="https://sdsc2018.mit.edu/">Statistics and Data Science Conference (SDSCon) at Data Systems and Society at MIT</a>
+            </br>
+            Invited talk at <a href="https://www.bbc.co.uk/academy/en/events/evt20180704115336827"> BBC AI conference </a>
+            </br>
+            Invited talk at <a href="https://mlconf.com/sessions/interpretability-beyond-feature-attribution-quant/">ML conf 2018</a>
+            </br>
+            Invited talk at <a href="https://conferences.law.stanford.edu/futurelaw2018/agenda/">CodeX FutureLaw conference at Stanford law school 2018</a>
+            </br>
+            Invited talk at <a href="https://interpretablevision.github.io/index_cvpr2018.html">Interpretable Machine Learning for Computer Vision CVPR 2018</a>
+            </br>
+            Invited tutorial at <a href="https://dlrl.ca/speakers/">Deep Learning Summer School at University of Toronto/Vector institute 2018</a>
+            </br>
+            Invited keynote at <a href="https://visxai.io/2018.html">Visualization for AI Explainability at IEEE VISi 2018</a>
+            </br>
+            Invited talk at <a href="https://machlearn.gitlab.io/hitl2017/schedule/">Human in the Loop Machine Learning workshop ICML 2017 </a>
+            </br>
+            Invited talk at <a href="https://sites.google.com/site/wildml2017icml/schedule">Reliable ML in the wild workshop ICML 2017</a>
+            </br>
+            Invited tutorial at <a href="https://icml.cc/Conferences/2017/Tutorials">ICML 2017</a> <a href="https://vimeo.com/240429018"> video </a>
+            </br>
+            Invited talk at <a href="http://www.interpretable-ml.org/nips2017workshop/">Interpreting, Explaining and Visualizing Deep Learning</a>
+            </br>
+            Invited keynote at SF rework 2017
+            </br>
+            Invited talk at IBM on “interpretable and interactive machine learning” 2017
+            </br>
+            Invited talk at South Park commons 2017
+          </div>
+
+        </div>						
+      </div>						
+      <!-- End Talks-->
+      <!-- Start Media-->
+            </br>
+            <div id="fh5co-work">
+              <div class="container">
+                <a NAME="Media"><h4>Selected Media Coverage</h4></a>
+                <div class="p13">
+
+
+            Quantas magazine <a href="https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110/">A New Approach to Understanding How Machines Think</a>
+            </br>
+             Znet <a href="https://www.zdnet.com/article/google-says-it-will-address-ai-machine-learning-model-bias-with-technology-called-tcav/">Google says it will address AI, machine learning model bias with technology called TCAV</a>
+            </br>
+             cnet <a href="https://www.cnet.com/news/google-working-to-fix-ai-bias-problems/">Google working to fix AI bias problems</a>
+            </br>
+            Parsing Science <a href="https://www.parsingscience.org/2019/07/09/been-kim/">Behind the Curtain of Algorithms – Been Kim</a>
+            </br>
+            Anlytics insight <a href="https://www.analyticsinsight.net/aiml-model-bias-addressed-tcav-technology-says-google-ceo/">AI/ML Model Bias To Be Adressed With TCAV Technology, Says Google CEO</a>
+            </br>
+            Digital Information World <a href="https://www.digitalinformationworld.com/2019/05/TCAV-federated-learning-google-tools-bias-ai.html">Google to Introduce Two New Tools to End Bias in Artificial Intelligence</a>
+            </br>
+            Magenta <a href="https://magenta.as/how-a-google-brain-researcher-is-making-ai-easier-to-understand-351d17e75734">How a Google Researcher Is Making AI Easier to Understand, Magenta</a>
+            </br>
+            siliconANGLE <a href="https://siliconangle.com/2019/05/07/google-combats-machine-learning-bias-open-source-tech/">Google combats machine learning bias with open-source tech</a>
+            </br>
+            Towards data science <a href="https://towardsdatascience.com/tcav-interpretability-beyond-feature-attribution-79b4d3610b4d">An overview of GoogleAI’s model Interpretability technique in terms of human-friendly concepts.</a>
+            </br>
+           techiexpert <a href="https://www.techiexpert.com/google-brain-built-a-translator-so-ai-can-explain-itself/">Google Brain Built a Translator so AI Can Explain Itself</a>
+            </br>
+            Allerin <a href="https://www.allerin.com/blog/addressing-ai-and-ml-bias-with-tcav-technology">Addressing AI and ML bias with TCAV technology</a>
+            </br>
+            BBNtimes <a href="https://www.bbntimes.com/technology/addressing-artificial-intelligence-and-machine-learning-bias-with-tcav-technology">Addressing artificial intelligence and machine learning bias with TCAV technology</a>
+            </br>
+            Kdnuggets <a href="https://www.kdnuggets.com/2019/07/google-technique-understand-neural-networks-thinking.html">This New Google Technique Help Us Understand How Neural Networks are Thinking</a>
+            </br>
+      <a href="https://www.thetalkingmachines.com/episodes/explainability-and-inexplicable" >Talking machines 2018</a>
+            </br>
+  MIT news <a href="http://newsoffice.mit.edu/2014/pattern-recognition-systems-convey-learning-1205" >Computers that teach by example</a>
+            </br>
+       WSJ <a href="http://online.wsj.com/news/articles/SB10001424127887324021104578553900295324678" >At Work: Just Say `Yeah’</a>
+            </br>
+       Forbes <a href="http://www.forbes.com/sites/dandiamond/2013/06/23/how-to-win-co-workers-and-influence-meetings/" >How To Win Over Co-Workers And Influence Meetings: Use These 3 Words</a>
+            </br>
+       ABC news <a href="http://abcnews.go.com/blogs/business/2013/06/researchers-discover-the-key-to-persuasion/" >
+      Researchers Discover the Key to Persuasion 
+      </a>
+            </br>
+       Yahoo news <a href="http://news.yahoo.com/5-words-results-business-meetings-102239872.html" >
+      5 Important Words to Say in Every Business Meeting
+      </a>
+    
+            </br>
+                </div>
+              </div>
+            </div>
+            <!-- End Media-->
+
+            <div class="fh5co-spacer fh5co-spacer-md"></div>
+
+            <div class="fh5co-spacer fh5co-spacer-sm"></div>
+
+  </main>
+
+  <footer id="fh5co-footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-push-6 col-md-6">
+          <p class="fh5co-copyright" align='right'>
+          <small>
+            Designed by: <a href="http://freehtml5.co/">freehtml5.co</a> 
+          </small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Go To Top -->
+  <a href="#" class="fh5co-gotop"><i class="ti-shift-left"></i></a>
+
+
+  <!-- jQuery -->
+  <script src="js/jquery-1.10.2.min.js"></script>
+  <!-- jQuery Easing -->
+  <script src="js/jquery.easing.1.3.js"></script>
+  <!-- Bootstrap -->
+  <script src="js/bootstrap.js"></script>
+  <!-- Owl carousel -->
+  <script src="js/owl.carousel.min.js"></script>
+  <!-- Magnific Popup -->
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <!-- Easy Responsive Tabs -->
+  <script src="js/easyResponsiveTabs.js"></script>
+  <!-- FastClick for Mobile/Tablets -->
+  <script src="js/fastclick.js"></script>
+  <!-- Velocity -->
+  <script src="js/velocity.min.js"></script>
+  <!-- Google Map -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+  <script src="js/google_map.js"></script>
+  <!-- Main JS -->
+  <script src="js/main.js"></script>
+
+<script>
+function toggle() {
+  var x = document.getElementById("toggle-div");
+  var btn = document.getElementById("thebutton");
+
+  if (x.style.display === "block") {
+    x.style.display = "none";
+    btn.innerHTML = "+ Show more..."
+  } else {
+    x.style.display = "block";
+    btn.innerHTML = "Hide"
+  }
+}
+
+</script>
+</body>
+</html>
